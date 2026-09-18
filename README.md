@@ -19,10 +19,6 @@ I'm currently rebuilding my foundations from the ground up and documenting the w
 
 More technologies will be added as I gain real experience with them.
 
-## Current Goal
-
-Build strong fundamentals → solve real problems → build useful projects → become job-ready.
-
 ---
 
 ### Connect
