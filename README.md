@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Gautam
 
-<!--
-**GautamGK0/GautamGK0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student focused on building strong fundamentals and becoming a better problem solver.
 
-Here are some ideas to get you started:
+## Currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Data Structures & Algorithms with Java
+* Problem solving and algorithmic thinking
+* Full-stack web development
+* Building projects and learning through implementation
+
+## My Focus
+
+I'm currently rebuilding my foundations from the ground up and documenting the work through code, projects, and experiments.
+
+## Tech
+
+`Java` `Data Structures & Algorithms` `Git` `GitHub`
+
+More technologies will be added as I gain real experience with them.
+
+## Current Goal
+
+Build strong fundamentals → solve real problems → build useful projects → become job-ready.
+
+---
+
+### Connect
+
+* LinkedIn: www.linkedin.com/in/gautam-k-067454225
